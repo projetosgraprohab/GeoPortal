@@ -1,0 +1,6 @@
+{
+  "name": "GeoPortal GRAPROHAB",
+  "description": "Plataforma oficial de inteligência geográfica do GRAPROHAB",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
