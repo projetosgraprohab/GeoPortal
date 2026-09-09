@@ -1,18 +1,34 @@
-GEOPORTAL DESENVOLVIDO PELO GRAPROHAB
+# 🌍 GeoPortal GRAPROHAB
 
-# Run and deploy your AI Studio app
+Plataforma oficial de inteligência geográfica e análise espacial do GRAPROHAB (Governo do Estado de São Paulo). 
 
-This contains everything you need to run your app locally.
+O GeoPortal é um sistema WebGIS moderno, construído sob medida para visualização, cruzamento e gerenciamento de dados espaciais de empreendimentos habitacionais, com foco em alta performance, usabilidade e soberania tecnológica.
 
-View your app in AI Studio: https://ai.studio/apps/b7c5f46f-3866-4058-abde-a8958b0251a2
+## ✨ Principais Funcionalidades
 
-## Run Locally
+- **Inteligência Espacial:** Tabela de atributos interativa integrada com o mapa.
+- **Filtros Cruzados:** Motor de busca avançado permitindo cruzar múltiplos filtros de dados simultaneamente (ex: Tipologia + Ano + Município).
+- **Ferramentas Nativas:** Medição de área e distância, localização por GPS, controle dinâmico de mapas base (Satélite, Dark, Street, etc.) e busca de endereços (OSM).
+- **Interface Moderna (UI/UX):** Design limpo utilizando o padrão *Glassmorphism*, totalmente responsivo para funcionar em desktops e dispositivos móveis.
+- **Soberania Tecnológica:** Arquitetura proprietária e escalável, permitindo hospedagem independente nos servidores do Estado e conformidade total com a LGPD e políticas de segurança.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tecnologias Utilizadas
 
+- **Frontend:** React, TypeScript, Vite
+- **Estilização:** Tailwind CSS
+- **Mapas (Renderização):** Leaflet
+- **Ícones:** Lucide React
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Como executar o projeto localmente
+
+Para rodar este projeto no seu computador para testes ou desenvolvimento, siga os passos abaixo:
+
+### Pré-requisitos
+- Ter o [Node.js](https://nodejs.org/) instalado.
+- Ter o Git instalado.
+
+### Passo a passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
