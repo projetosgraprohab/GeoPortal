@@ -19,16 +19,4 @@ O GeoPortal é um sistema WebGIS moderno, construído sob medida para visualiza�
 - **Mapas (Renderização):** Leaflet
 - **Ícones:** Lucide React
 
-## 🚀 Como executar o projeto localmente
 
-Para rodar este projeto no seu computador para testes ou desenvolvimento, siga os passos abaixo:
-
-### Pré-requisitos
-- Ter o [Node.js](https://nodejs.org/) instalado.
-- Ter o Git instalado.
-
-### Passo a passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
