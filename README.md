@@ -12,6 +12,10 @@ O GeoPortal GRAPROHAB é um sistema WebGIS moderno, construído sob medida para 
 - **Interface Moderna (UI/UX):** Design limpo utilizando o padrão , totalmente responsivo para funcionar em desktops e dispositivos móveis (Em Testes).
 - **Soberania Tecnológica:** Arquitetura proprietária e escalável, permitindo hospedagem independente em qualquer servidore  e conformidade total com a LGPD e políticas de segurança.
 
+## 🕒 Em Breve
+- **Integração com Web Map Services (⏳ 99%):** Suporte para consumo dinâmico de dados geoespaciais via protocolos padronizados do OGC (WMS e WFS)
+- **Melhoria na navegação em celulares (⏳ 90%):** Interface touch otimizada com painéis retráteis, botões redimensionáveis e maior fluidez de pan/zoom em telas menores.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend:** React, TypeScript, Vite
