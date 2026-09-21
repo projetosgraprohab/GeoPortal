@@ -1,8 +1,8 @@
 # 🌍 GeoPortal GRAPROHAB
 
-Plataforma oficial de inteligência geográfica e análise espacial do GRAPROHAB (Governo do Estado de São Paulo). 
+Plataforma oficial de inteligência geográfica e análise espacial do GRAPROHAB (Governo do Estado de São Paulo).
 
-O GeoPortal GRAPROHAB é um sistema WebGIS moderno, construído sob medida para visualização, cruzamento e gerenciamento de dados espaciais de empreendimentos habitacionais, com foco em alta performance e simplicidade.
+Projetado para entregar alta performance sem abrir mão da simplicidade, o GeoPortal GRAPROHAB é um WebGIS moderno dedicado ao mapeamento, cruzamento e gerenciamento de dados de empreendimentos habitacionais. O sistema está em constante evolução, sendo aprimorado de forma colaborativa através das sugestões diárias dos interessados.
 
 ## ✨ Principais Funcionalidades
 
@@ -13,7 +13,7 @@ O GeoPortal GRAPROHAB é um sistema WebGIS moderno, construído sob medida para 
 - **Soberania Tecnológica:** Arquitetura proprietária e escalável, permitindo hospedagem independente em qualquer servidore  e conformidade total com a LGPD e políticas de segurança.
 
 ## 🕒 Em Breve
-- **Integração com Web Map Services (⏳ 99%):** Suporte para consumo dinâmico de dados geoespaciais via protocolos padronizados do OGC (WMS e WFS)
+- **Integração com Web Map Services (⏳ 99%):** Suporte para consumo dinâmico de dados geoespaciais via protocolos padronizados do OGC (WMS e WFS) 
 - **Melhoria na navegação em celulares (⏳ 90%):** Interface touch otimizada com painéis retráteis, botões redimensionáveis e maior fluidez de pan/zoom em telas menores.
 
 ## 🛠️ Tecnologias Utilizadas
